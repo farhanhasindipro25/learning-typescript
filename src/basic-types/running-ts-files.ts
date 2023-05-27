@@ -1,0 +1,1 @@
+// npx ts-node-dev --respawn \src\filename.ts
